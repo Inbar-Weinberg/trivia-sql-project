@@ -1,0 +1,13 @@
+from `population_density_by_countries`
+
+Population
+Area_km2 as Area
+Density_pop_km2
+
+
+from `countries_general`
+Phones_per_1000
+
+from capitals
+Capital
+Continent
